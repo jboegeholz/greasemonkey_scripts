@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name        add_calendar_widget
-// @namespace   eso
-// @description adds an jqueryui calendar to the date fields
-// @include     https://adera.esolutions.de/nutzungEdit.do*
+// @namespace   creatronix
+// @description adds an jQuery-UI calendar to the date fields
+// @include     <your site here>
 // @require https://code.jquery.com/jquery-1.12.4.min.js
 // @require https://code.jquery.com/ui/1.12.1/jquery-ui.min.js
 // @resource customCSS https://code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css
