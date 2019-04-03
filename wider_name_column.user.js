@@ -2,8 +2,7 @@
 // @name        wider_naColumnmn
 // @namespace   eso
 // @description extends the name tabel column that you can read the full
-// @include     https://degamadx02.eso.local/AdaxesSelfService/HomeAction.aspx*
-// @include     https://uss.esolutions.de/AdaxesSelfService/HomeAction.aspx*
+// @include     http://*
 // @require http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js
 // @version     1
 // @grant       none
